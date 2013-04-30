@@ -1,0 +1,8 @@
+{
+  "name": "composite",
+  "repo": "lge88/composite.git",
+  "scripts": [
+    "composite.js"
+  ],
+  "main": "composite.js"
+}
